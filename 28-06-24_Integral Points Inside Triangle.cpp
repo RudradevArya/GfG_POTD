@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/problems/integral-points-in-triangle5026/1
