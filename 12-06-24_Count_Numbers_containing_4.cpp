@@ -1,4 +1,7 @@
-class Solution {
+/*
+https://www.geeksforgeeks.org/problems/count-numbers-containing-43022/1
+12 June 24
+*/class Solution {
   public:
     int countNumberswith4(int n) {
         // code here

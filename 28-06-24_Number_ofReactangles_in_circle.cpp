@@ -1,1 +1,0 @@
-https://www.geeksforgeeks.org/problems/rectangles-in-a-circle0457/1
